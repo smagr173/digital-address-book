@@ -1,10 +1,8 @@
 # Web Address Book
-Food and beverage ordering web app for coffee shop<br/>
-- Implemented using React Native, MySQL, and PHP
-- Conventional Class components
-- Connects to employee site where orders are displayed
+Save and edit any number of addresses and contacts<br/>
+- Implemented using HTML, CSS, PHP, and SQLite
+- Securely create and account so that the data will persist
+- Demonstrates standard CRUD operations on data
 ## Overview
-This repository contains the code and information for the BBMobile app. This project allows the user to create an account, sign in, and update their information. The user can select an item from the menu, customize it, then add it to their shopping cart. Once an order is placed, the customer can view the active order at the home screen, along with items that have been favorited and previous orders.<br/>
-<br/>
-This project was created using React Native for the front-end components, which is a JavaScript framework for building iOS & Android apps. The React Native code connects to a PHP back-end where the SQL database is then accessed.<br/>
+This web page allows users to log in and create a contact list containing a name, email, phone number, and address. The information stored on the database can be viewed, updated, and deleted using the different pages. PHP sessions are used in order to maintain the users state and for retrieval of the correct information from the database.
 <br/>
